@@ -1,6 +1,6 @@
 ## Penetration Testing with Kali Linux (PWK) course and Offensive Security Certified Professional (OSCP) Cheat Sheet
 
-<center><img src="https://github.com/0xEscxtt/Offensive-Security-PWK-CheatSheet/blob/master/offsec.png" width="1000" height="500" /> </center> 
+<center><img src="https://github.com/joshuaEscx/PWK-Cheatsheet/blob/master/offsec.png" width="1000" height="500" /> </center> 
 
 # Table of Contents
 - [Linux 101](#linux-101)
